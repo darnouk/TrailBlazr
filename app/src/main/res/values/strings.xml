@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrailBlazr</string>
+    <string name="title_map">Map</string>
+    <string name="title_addlocation">Add Location</string>
+    <string name="title_profile">Profile</string>
+    <string name="filter_run_bike">Filter: Run/Bike</string>
+    <string name="length_5_miles">Length: 5 miles</string>
+    <string name="search_route_name_hint">Search route name</string>
+    <string name="submit_rating">Submit Rating</string>
+</resources>
